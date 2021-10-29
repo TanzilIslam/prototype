@@ -8,7 +8,7 @@
             <v-img
             height="362"
             contain
-              :src="require('@/assets/image.png')"
+              :src="require('@/assets/Image.png')"
             ></v-img>
           </v-col>
           <v-col cols="12" sm="12" md="9" lg="9" xl="9">
